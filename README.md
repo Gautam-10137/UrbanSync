@@ -1,1 +1,1 @@
-*** This is a Project Management Application ***
+*** This is a Inter-Departmental Cooperation Management Application ***
